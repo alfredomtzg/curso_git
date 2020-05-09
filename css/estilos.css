@@ -14,3 +14,9 @@ p{
   margin: 1em;
   font-size: 2em;
 }
+
+.header p{
+  font-style: italic;
+  padding: 0;
+  text-align: justify;
+}
