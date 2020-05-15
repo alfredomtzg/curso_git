@@ -20,3 +20,8 @@ p{
   padding: 0;
   text-align: center;
 }
+footer{
+  background-color: black;
+  color: inherit;
+  height: 100%;
+}
